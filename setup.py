@@ -13,6 +13,6 @@ setup(
     url="https://github.com/COMBAT-TB/combattbmodel",
     packages=find_packages(),
     install_requires=[
-        'py2neo==3.1.2'
+        'py2neo==2021.0.1'
     ]
 )
